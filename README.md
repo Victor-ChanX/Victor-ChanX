@@ -45,7 +45,6 @@ const victor = {
 | | Project | What it does |
 |---|---|---|
 | ⚡ | **[sogna-virtual-list](https://github.com/Victor-ChanX/sogna-virtual-list)** <br/> [![npm](https://img.shields.io/npm/v/sogna-virtual-list?color=2f81f7&label=npm)](https://www.npmjs.com/package/sogna-virtual-list) | A lightweight React virtual list for chat, feeds and logs. Keeps the viewport steady while you prepend history, append messages or **stream text into a row**: Fenwick-tree O(log n) offsets, one shared `ResizeObserver`, zero runtime deps. |
-| 🤖 | **Multi-account group messaging platform** <br/> [backend](https://github.com/Victor-ChanX/interviewProjects-backend) · [console](https://github.com/Victor-ChanX/interviewProjects-frontend) | Fastify + Prisma + PostgreSQL backend with a React console. Accounts, groups, scheduled message sequences, and **AI agents (Claude / Gemini) that read the room and reply**, with every agent step audited. Real-time over WebSocket, end-to-end tested with Playwright. |
 
 ### 🕰️ `git log --oneline victor`
 
@@ -66,7 +65,7 @@ a1b2c3d (HEAD -> main) feat: AI agents that join group chats and talk back 🤖
 
 ### 💬 Say hi
 
-The chat window above is just an SVG, but I'm real and I reply 😄 Open an issue on any repo, or find me at **[kismetsomni.com](https://kismetsomni.com/)**.
+The chat window above is just an SVG, but I'm real and I reply 😄 Open an issue on any repo, or find me at **[oriarbor.com](https://oriarbor.com/)**.
 
 <div align="center">
 
